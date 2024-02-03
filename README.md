@@ -88,9 +88,9 @@ ____
 ____
 ### Ссылки
 ```
-[GitHub](https://github.com/crazqx)
+[GitHub](https://github.com/vladnik949)
 ```
-[GitHub/crazqx](https://github.com/crazqx)
+[GitHub/vladnik949](https://github.com/vladnik949)
 ____
 ### Изображения
 ```
