@@ -90,7 +90,7 @@ ____
 ```
 [GitHub](https://github.com/vladnik937)
 ```
-[GitHub/vladislav949](https://github.com/vladnik937)
+[GitHub/vladnik937](https://github.com/vladnik937)
 ____
 ### Изображения
 ```
