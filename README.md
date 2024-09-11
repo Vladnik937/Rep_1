@@ -88,9 +88,9 @@ ____
 ____
 ### Ссылки
 ```
-[GitHub](https://github.com/vladislav949)
+[GitHub](https://github.com/vladnik937)
 ```
-[GitHub/vladislav949](https://github.com/vladislav949)
+[GitHub/vladislav949](https://github.com/vladnik937)
 ____
 ### Изображения
 ```
